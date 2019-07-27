@@ -1,11 +1,9 @@
 .one{
-  width: 320px;
+  width: 620px;
   height: 300px;
   border : 20px solid yellow;
-  float: left;
-  height: auto;
-  padding :10px;
-  margin  :20px
+  float: left  padding :10px;
+  margin-left  :20px
   }
 .two{
   width: 320px;
@@ -13,10 +11,8 @@
   float: right;
   height: 620px;
   padding :10px;
-  margin  :20px;
-  text-aling : center;
-  text-transform :uppercase;
-}
+  margin :20px;
+  }
 .three{
   width: 320px;
   border : 20px solid blue;
@@ -33,6 +29,24 @@
   padding :10px;
   margin  :20px
   }
+  .five{
+    width: 320px;
+    border : 20px solid grey ;
+    float: right;
+    height: 300px;
+    padding :10px;
+    margin  :20px
+    }
+  .six{
+      width: 320px;
+      border : 20px solid gold ;
+      float: right;
+      height: 300px;
+      padding :10px;
+      margin  :20px
+      }
 html{
-    border: 20px solid red;
+position: fixed;
+         border: 20px solid grey;
+
 }
