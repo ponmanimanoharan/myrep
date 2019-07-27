@@ -1,0 +1,38 @@
+.one{
+  width: 320px;
+  height: 300px;
+  border : 20px solid yellow;
+  float: left;
+  height: auto;
+  padding :10px;
+  margin  :20px
+  }
+.two{
+  width: 320px;
+  border : 20px solid purple;
+  float: right;
+  height: 620px;
+  padding :10px;
+  margin  :20px;
+  text-aling : center;
+  text-transform :uppercase;
+}
+.three{
+  width: 320px;
+  border : 20px solid blue;
+  float: left;
+  height: 300px;
+  padding :10px;
+  margin  :20px
+  }
+.four{
+  width: 320px;
+  border : 20px solid ;
+  float: left;
+  height: 300px;
+  padding :10px;
+  margin  :20px
+  }
+html{
+    border: 20px solid red;
+}
